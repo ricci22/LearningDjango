@@ -1,8 +1,10 @@
 # LearningDjango
 Learning Django
 
+Create virtual environment
+    python -m venv .venv
+
 Start virtual environment
-    python3 -m venv .venv
     source .venv/bin/activate
 
 Testing the app 
